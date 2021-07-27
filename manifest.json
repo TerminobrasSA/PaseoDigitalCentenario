@@ -1,8 +1,7 @@
 {
  "name": "TERMINOBRAS/CENTENARIO",
- "theme_color": "#FFFFFF",
  "description": "Un testimonio del más alto nivel de la calidad de nuestro trabajo.",
- "display": "fullscreen",
+ "start_url": "index.htm",
  "background_color": "#FFFFFF",
  "icons": [
   {
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen"
 }
